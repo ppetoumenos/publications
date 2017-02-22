@@ -90,6 +90,9 @@
         <xsl:value-of select="@month"/><xsl:text> </xsl:text>
         <xsl:value-of select="@year"/><xsl:text> </xsl:text>
         <xsl:value-of select="@location"/><br/>
+	<xsl:if test="@notes!=''">
+        	<b><xsl:value-of select="@notes"/></b><br/>
+	</xsl:if>
         
         <a href="javascript:toggle_display('{@bibtex}_bibtex')"><i class="fa fa-file-text-o fa-lg"></i> bibtex</a><xsl:text>&#160;&#160;&#160;&#160;</xsl:text>
         <xsl:if test="abstract"><a href="javascript:toggle_display('{@bibtex}_abstract')"><i class="fa fa-file-text-o fa-lg"></i> abstract</a><xsl:text>&#160;&#160;&#160;&#160;</xsl:text></xsl:if>

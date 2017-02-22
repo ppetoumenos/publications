@@ -10,7 +10,7 @@
         location="Austin, Texas, US"
 	notes="Best Paper Award"
         booktitle="Proceedings of the International Symposium on Code Generation and Optimization (CGO 2017)">
-        <file name="paper" type="pdf" path="publications/papers/cgo17main-main38-p-210ef4e-30172-preprint.pdf"/>
+        <file name="paper" type="pdf" path="https://github.com/ppetoumenos/publications/raw/master/2017/CGO17-Clgen.pdf"/>
         <file name="presentation" type="pdf" path="https://speakerdeck.com/chriscummins/synthesizing-benchmarks-for-predictive-modelling-cgo-17"/>
         <file name="clgen" type="code" path="https://github.com/ChrisCummins/clgen"/>
         <abstract>
@@ -25,8 +25,8 @@
         month="February"
         location="Austin, Texas, US"
         booktitle="Proceedings of the International Symposium on Code Generation and Optimization (CGO 2017)">
-        <file name="paper" type="pdf" path="publications/papers/cgo17main-main99-p-210ef4e-30172-preprint.pdf"/>
-        <file name="presentation" type="pdf" path="publications/presentations/20170207-CGO.pdf"/>
+        <file name="paper" type="pdf" path="https://github.com/ppetoumenos/publications/raw/master/2017/CGO17-ActiveLearning.pdf"/>
+        <file name="presentation" type="pdf" path="https://github.com/ppetoumenos/publications/raw/master/2017/CGO17-ActiveLearning-Presentation.pdf"/>
         <abstract>
 	Since performance is not portable between platforms, engineers must fine-tune heuristics for each processor in turn. This is such a laborious task that high-profile compilers, supporting many architectures, cannot keep up with hardware innovation and are actually out-of-date. Iterative compilation driven by machine learning has been shown to be efficient at generating portable optimization models automatically. However, good quality models require costly, repetitive, and extensive training which greatly hinders the wide adoption of this powerful technique.
 
@@ -105,7 +105,8 @@
         year="2014"
         month="October"
         location="Raleigh, North Carolina, USA"
-        booktitle="IISWC '14: Proceedings of the 2014 IEEE International Symposium on Workload Characterization (Best Paper Award)">
+	notes="Best Paper Award"
+        booktitle="IISWC '14: Proceedings of the 2014 IEEE International Symposium on Workload Characterization">
         <file name="paper" type="pdf" path="publications/papers/2014_interactiveworkloads_iiswc.pdf"/>
         <file name="presentation" type="pdf" path="publications/presentations/2014_interactiveworkloads_iiswc.pdf"/>
         <file name="sample workload" type="video" path="publications/presentations/2014_interactiveworkloads_iiswc-sample_workload.mp4"/>
