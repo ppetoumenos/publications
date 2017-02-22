@@ -7,7 +7,7 @@
 
   Proceedings of the International Symposium on Code Generation and Optimization (CGO 2017) February 2017 Austin, Texas, US
 
-**Best Paper Award**
+  **Best Paper Award**
 
   [paper](https://github.com/ppetoumenos/publications/raw/master/2017/CGO17-Clgen.pdf)    [presentation](https://speakerdeck.com/chriscummins/synthesizing-benchmarks-for-predictive-modelling-cgo-17)    [clgen](https://github.com/ChrisCummins/clgen)  
 
@@ -86,7 +86,7 @@
 
   IISWC '14: Proceedings of the 2014 IEEE International Symposium on Workload Characterization October 2014 Raleigh, North Carolina, USA
 
-**Best Paper Award**
+  **Best Paper Award**
 
   [paper](publications/papers/2014_interactiveworkloads_iiswc.pdf)    [presentation](publications/presentations/2014_interactiveworkloads_iiswc.pdf)    [sample workload](publications/presentations/2014_interactiveworkloads_iiswc-sample_workload.mp4)    [auto replay](publications/presentations/2014_interactiveworkloads_iiswc-auto_replay.mp4)  
 
