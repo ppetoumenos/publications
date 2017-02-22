@@ -1,7 +1,7 @@
 
 # Pavlos' Research Publications
 
-**Synthesizing Benchmarks for Predictive Modeling**
+- **Synthesizing Benchmarks for Predictive Modeling**
 
 *Christopher Cummins and Pavlos Petoumenos and Zheng Wang and Hugh Leather*
 
@@ -14,7 +14,7 @@ Proceedings of the International Symposium on Code Generation and Optimization (
 
 
 
-**Minimizing the Cost of Iterative Compilation with Active Learning**
+- **Minimizing the Cost of Iterative Compilation with Active Learning**
 
 *William Ogilvie and Pavlos Petoumenos and Zheng Wang and Hugh Leather*
 
@@ -25,7 +25,7 @@ Proceedings of the International Symposium on Code Generation and Optimization (
 
 
 
-**Towards Collaborative Performance Tuning of Algorithmic Skeletons**
+- **Towards Collaborative Performance Tuning of Algorithmic Skeletons**
 
 *Christoper Cummins and Pavlos Petoumenos and Michel Stewer and Hugh Leather*
 
@@ -36,7 +36,7 @@ Proceedings of the International Workshop on High-Level Programming for Heteroge
 
 
 
-**Iterative Compilation on Mobile Devices**
+- **Iterative Compilation on Mobile Devices**
 
 *Paschalis Mpeis and Pavlos Petoumenos and Hugh Leather*
 
@@ -47,7 +47,7 @@ Proceedings of the 6th International Workshop on Adaptive Self-tuning Computing 
 
 
 
-**Autotuning OpenCL Workgroup Size for Stencil Patterns**
+- **Autotuning OpenCL Workgroup Size for Stencil Patterns**
 
 *Christoper Cummins and Pavlos Petoumenos and Michel Stewer and Hugh Leather*
 
@@ -58,7 +58,7 @@ Proceedings of the 6th International Workshop on Adaptive Self-tuning Computing 
 
 
 
-**Power Capping: What Works, What Does Not**
+- **Power Capping: What Works, What Does Not**
 
 *Pavlos Petoumenos and Lev Mukhanov and Zheng Wang and Hugh Leather and Dimitrios Nikolopoulos*
 
@@ -69,7 +69,7 @@ Proceedings of the 21st IEEE International Conference on Parallel and Distribute
 
 
 
-**Intelligent Heuristic Construction with Active Learning**
+- **Intelligent Heuristic Construction with Active Learning**
 
 *William F Ogilvie and Pavlos Petoumenos and Zheng Wang and Hugh Leather*
 
@@ -80,7 +80,7 @@ CPC '15: Proceedings of Compilers for Parallel Computing January 2015 London, En
 
 
 
-**Measuring QoE of Interactive Workloads and Characterising Frequency Governors on Mobile Devices.**
+- **Measuring QoE of Interactive Workloads and Characterising Frequency Governors on Mobile Devices.**
 
 *Volker Seeker and Pavlos Petoumenos and Hugh Leather and Bjorn Franke*
 
@@ -93,7 +93,7 @@ IISWC '14: Proceedings of the 2014 IEEE International Symposium on Workload Char
 
 
 
-**Fast Automatic Heuristic Construction Using Active Learning**
+- **Fast Automatic Heuristic Construction Using Active Learning**
 
 *William F. Ogilvie and Pavlos Petoumenos and Zheng Wang and Hugh Leather*
 
@@ -104,7 +104,7 @@ LCPC '14: Proceedings of the Workshop on Languages and Compilers for Parallel Co
 
 
 
-**Instruction-based Reuse Distance Prediction Replacement Policy**
+- **Instruction-based Reuse Distance Prediction Replacement Policy**
 
 *Pavlos Petoumenos and Georgios Keramidas and Stefanos Kaxiras*
 
@@ -115,7 +115,7 @@ JWAC-1: 1st JILP Workshop on Computer Architecture Competitions (7th Place) June
 
 
 
-**Where replacement algorithms fail: a thorough analysis**
+- **Where replacement algorithms fail: a thorough analysis**
 
 *Georgios Keramidas and Pavlos Petoumenos and Stefanos Kaxiras*
 
@@ -126,7 +126,7 @@ CF 2010: Proceedings of the ACM International Conference on Computing Frontiers 
 
 
 
-**MLP-aware Instruction Queue Resizing: The Key to Power-Efficient Performance**
+- **MLP-aware Instruction Queue Resizing: The Key to Power-Efficient Performance**
 
 *Pavlos Petoumenos and Georgia Psychou and Stefanos Kaxiras and Juan M. Cebrian Gonzalez and Juan Luis Aragon*
 
@@ -137,7 +137,7 @@ ARCS 2010:  Proceedings of the International Conference on Architecture of Compu
 
 
 
-**Instruction-based reuse-distance prediction for effective cache management**
+- **Instruction-based reuse-distance prediction for effective cache management**
 
 *Pavlos Petoumenos and Georgios Keramidas and Stefanos Kaxiras*
 
@@ -148,7 +148,7 @@ SAMOS IX: Proceedings of the International Conference on Systems, architectures,
 
 
 
-**Efficient microarchitecture policies for accurately adapting to power constraints**
+- **Efficient microarchitecture policies for accurately adapting to power constraints**
 
 *Juan M. Cebrian Gonzalez and Juan Luis Aragon and Jose M. Garcia and Pavlos Petoumenos and Stefanos Kaxiras*
 
@@ -159,7 +159,7 @@ IPDPS 2009: Proceedings of the IEEE International Symposium on Parallel and Dist
 
 
 
-**Cache Replacement Based on Reuse-Distance Prediction**
+- **Cache Replacement Based on Reuse-Distance Prediction**
 
 *Georgios Keramidas and Pavlos Petoumenos and Stefanos Kaxiras*
 
@@ -170,7 +170,7 @@ ICCD 2007: Proceedings of the IEEE International Conference on Computer Design O
 
 
 
-**Using Value Locality to Reduce Memory Encryption Overhead in Embedded Processors**
+- **Using Value Locality to Reduce Memory Encryption Overhead in Embedded Processors**
 
 *Georgios Keramidas and Pavlos Petoumenos and Stefanos Kaxiras and Alexandros Antonopoulos and Dimitrios Serpanos*
 
@@ -181,7 +181,7 @@ ETFA 2007: Proceedings of the IEEE/ACM Conference on Emerging Technologies and F
 
 
 
-**Modelling Cache Sharing on Chip Multiprocessor Architectures**
+- **Modelling Cache Sharing on Chip Multiprocessor Architectures**
 
 *Pavlos Petoumenos and Georgios Keramidas and Hakan Zeffer and Stefanos Kaxiras and Erik Hagersten*
 
@@ -192,7 +192,7 @@ IISWC 2006: Proceedings of the IEEE International Symposium on Workload Characte
 
 
 
-**Preventing Denial-of-Service Attacks in Shared CMP Caches**
+- **Preventing Denial-of-Service Attacks in Shared CMP Caches**
 
 *Georgios Keramidas and Pavlos Petoumenos and Stefanos Kaxiras and Alexandros Antonopoulos and Dimitrios Serpanos*
 
@@ -203,7 +203,7 @@ SAMOS VI: Proceedings of the International Workshop on Embedded Computer Systems
 
 
 
-**Statshare: A statistical model for managing cache sharing via decay**
+- **Statshare: A statistical model for managing cache sharing via decay**
 
 *Pavlos Petoumenos and Georgios Keramidas and Hakan Zeffer and Stefanos Kaxiras and Erik Hagersten*
 
