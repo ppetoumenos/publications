@@ -1,6 +1,19 @@
 
 # Pavlos' Research Publications
 
+- **End-to-end Deep Learning of Optimization Heuristics**
+
+  *Christopher Cummins and Pavlos Petoumenos and Zheng Wang and Hugh Leather*
+
+  Proceedings of the 26th International Conference on Parallel Architectures and Compilation Techniques (PACT)  September 2017 Portland, Oregon, US
+
+  **Best Paper Award**
+
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2017/PACT17-DeepHeuristic.pdf)    [presentation](https://speakerdeck.com/chriscummins/end-to-end-deep-learning-of-optimization-heuristics)
+
+
+
+
 - **Synthesizing Benchmarks for Predictive Modeling**
 
   *Christopher Cummins and Pavlos Petoumenos and Zheng Wang and Hugh Leather*
