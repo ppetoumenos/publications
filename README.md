@@ -1,6 +1,14 @@
 
 # Pavlos' Research Publications
 
+- **Compiler Fuzzing through Deep Learning**
+
+  *Christopher Cummins and Pavlos Petoumenos and Alastair Murray and Hugh Leather*
+
+  Proceedings of the 27th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), July 2018 Amsterdam, Netherlands
+  
+  [paper]
+
 - **End-to-end Deep Learning of Optimization Heuristics**
 
   *Christopher Cummins and Pavlos Petoumenos and Zheng Wang and Hugh Leather*
