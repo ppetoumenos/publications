@@ -7,6 +7,8 @@
 
   Proceedings of the 27th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), July 2018 Amsterdam, Netherlands
   
+  **Distinguished Paper Award**
+  
   [paper](https://github.com/ppetoumenos/publications/raw/master/2018/ISSTA18-CompilerFuzzing.pdf)
   
   
