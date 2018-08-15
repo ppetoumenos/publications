@@ -43,6 +43,7 @@
   *Lev Mukhanov and Pavlos Petoumenos and Zheng Wang and Nikos Parasyris and Dimitrios Nikolopoulos and Bronis de Supinski and Hugh Leather*
   
   ACM Transactions on Architecture and Code Optimization (ACM TACO) 2017
+  
   [paper](https://github.com/ppetoumenos/publications/raw/master/2017/TACO17-ALEA.pdf)
 
 
