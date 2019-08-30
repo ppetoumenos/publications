@@ -1,6 +1,17 @@
 
 # Pavlos' Research Publications
 
+- **Function Merging by Sequence Alignment**
+
+  *Rodrigo C. O. Rocha and Pavlos Petoumenos and Zheng Wang and Murray Cole and Hugh Leather*
+
+  Proceedings of the International Symposium on Code Generation and Optimization (CGO 2019) February 2019 Washington DC, US
+
+  **Best Paper Award**
+
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2019/CGO19-FuncMerge.pdf)
+
+
 - **Compiler Fuzzing through Deep Learning**
 
   *Christopher Cummins and Pavlos Petoumenos and Alastair Murray and Hugh Leather*
