@@ -9,7 +9,7 @@
 
   **Best Paper Award**
 
-  [paper](https://github.com/ppetoumenos/publications/raw/master/2019/CGO19-FuncMerge.pdf)
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2019/CGO19_FuncMerge.pdf)
 
 
 - **Compiler Fuzzing through Deep Learning**
