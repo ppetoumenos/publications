@@ -7,7 +7,7 @@
   
   Proceedings of the 20th ACM/IEEE International Symposium on Code Generation and Optimization (CGO 2022) February 2022 Seoul, South Korea
   
-  [paper](https://github.com/ppetoumenos/publications/raw/master/2022/CGO22_F3M.pdf)
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2022/CGO2022_F3M.pdf)
   [artifact](https://doi.org/10.48420/17041502)
 
 - **Loop Rolling for Code Size Reduction**
@@ -16,7 +16,7 @@
  
  Proceedings of the 20th ACM/IEEE International Symposium on Code Generation and Optimization (CGO 2022) February 2022 Seoul, South Korea
  
- [paper](https://github.com/ppetoumenos/publications/raw/master/2022/CGO22_LoopRolling.pdf)
+ [paper](https://github.com/ppetoumenos/publications/raw/master/2022/CGO2022_LoopRolling.pdf)
  [artifact](https://doi.org/10.6084/m9.figshare.17263274)
 
 - **Developer and User-transparent Compiler Optimization for Interactive Applications**
