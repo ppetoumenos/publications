@@ -1,6 +1,72 @@
 
 # Pavlos' Research Publications
 
+- **F3M: Fast Focused Function Merging**
+
+  *Sean Stirling and Rodrigo C. O. Rocha and Kim Hazelwood and Hugh Leather and Michael F. P. O'Boyle and Pavlos Petoumenos*
+  
+  Proceedings of the 20th ACM/IEEE International Symposium on Code Generation and Optimization (CGO 2022) February 2022 Seoul, South Korea
+  
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2022/CGO22_F3M.pdf)
+  [artifact](https://doi.org/10.48420/17041502)
+
+- **Loop Rolling for Code Size Reduction**
+
+ *Rodrigo C. O. Rocha and Pavlos Petoumenos and Bjorn Franke and Pramod Bhatotia and Michael F. P. O'Boyle*
+ 
+ Proceedings of the 20th ACM/IEEE International Symposium on Code Generation and Optimization (CGO 2022) February 2022 Seoul, South Korea
+ 
+ [paper](https://github.com/ppetoumenos/publications/raw/master/2022/CGO22_LoopRolling.pdf)
+ [artifact](https://doi.org/10.6084/m9.figshare.17263274)
+
+- **Developer and User-transparent Compiler Optimization for Interactive Applications**
+
+  *Paschalis Mpeis and Pavlos Petoumenos and Kim Hazelwood and Hugh Leather*
+
+  Proceedings of the 42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2021) July 2021 Virtual
+
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2021/PLDI21_MobileAutotuning.pdf)
+  
+- **HyFM: Function Merging for Free**
+
+  *Rodrigo C. O. Rocha and Pavlos Petoumenos and Zheng Wang and Murray Cole and Kim Hazelwood and Hugh Leather*
+
+  22nd ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES 2021) July 2021 Virtual
+
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2021/LCTES21_HyFM.pdf)
+
+- **Collaborative Heterogeneity-aware OS Scheduler for Asymmetric Multicore Processors**
+
+  *Teng Yu and Runxin Zhong and Vladimir Janjic and Pavlos Petoumenos and and Jidong Zhai and Hugh Leather and John Thomson*
+  
+  IEEE Transactions on Parallel and Distributed Systems (TPDS) May 2021
+  
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2021/TPDS21_COLAB.pdf)
+
+- **Effective Function Merging in the SSA Form**
+
+  *Rodrigo C. O. Rocha and Pavlos Petoumenos and Zheng Wang and Murray Cole and Hugh Leather*
+
+  Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2020) June 2020 London, UK
+
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2020/PLDI20_SalSSA.pdf)
+
+- **Vectorization-aware Loop Unrolling with Seed Forwarding**
+
+  *Rodrigo C. O. Rocha and Vasileios Porpodas and Pavlos Petoumenos and Luís FW Góes and Zheng Wang and Murray Cole and Hugh Leather*
+  
+  Proceedings of the 29th International Conference on Compiler Construction (CC 2020) February 2020 San Diego, California, US
+  
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2020/CC20_VALU.pdf)
+
+- **COLAB: A Collaborative Multi-factor Scheduler for Asymmetric Multicore Processors**
+
+  *Teng Yu and Pavlos Petoumenos and Vladimir Janjic and Hugh Leather and John Thomson*
+  
+  Proceedings of the 18th ACM/IEEE International Symposium on Code Generation and Optimization (CGO 2020) February 2020 San Diego, California, US
+  
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2020/CGO20_COLAB.pdf)
+
 - **Function Merging by Sequence Alignment**
 
   *Rodrigo C. O. Rocha and Pavlos Petoumenos and Zheng Wang and Murray Cole and Hugh Leather*
