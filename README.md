@@ -12,12 +12,12 @@
 
 - **Loop Rolling for Code Size Reduction**
 
- *Rodrigo C. O. Rocha and Pavlos Petoumenos and Bjorn Franke and Pramod Bhatotia and Michael F. P. O'Boyle*
+  *Rodrigo C. O. Rocha and Pavlos Petoumenos and Bjorn Franke and Pramod Bhatotia and Michael F. P. O'Boyle*
  
- Proceedings of the 20th ACM/IEEE International Symposium on Code Generation and Optimization (CGO 2022) February 2022 Seoul, South Korea
+  Proceedings of the 20th ACM/IEEE International Symposium on Code Generation and Optimization (CGO 2022) February 2022 Seoul, South Korea
  
- [paper](https://github.com/ppetoumenos/publications/raw/master/2022/CGO2022_LoopRolling.pdf)
- [artifact](https://doi.org/10.6084/m9.figshare.17263274)
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2022/CGO2022_LoopRolling.pdf)
+  [artifact](https://doi.org/10.6084/m9.figshare.17263274)
 
 - **Developer and User-transparent Compiler Optimization for Interactive Applications**
 
