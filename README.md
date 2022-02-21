@@ -1,6 +1,14 @@
 
 # Pavlos' Research Publications
 
+- **Object Intersection Captures on Interactive Apps to Drive a Crowd-Sourced Replay-Based Compiler Optimization**
+
+  *Paschalis Mpeis and Pavlos Petoumenos and Kim Hazelwood and Hugh Leather*
+  
+  To be published in ACM Transactions on Architecture and Code Optimization (TACO)
+  
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2022/TACO22_CrowdSourcedAutotuning.pdf)
+
 - **F3M: Fast Focused Function Merging**
 
   *Sean Stirling and Rodrigo C. O. Rocha and Kim Hazelwood and Hugh Leather and Michael F. P. O'Boyle and Pavlos Petoumenos*
