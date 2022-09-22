@@ -1,11 +1,20 @@
 
 # Pavlos' Research Publications
 
+- **BenchPress: A Deep Active Benchmark Generator**
+
+  *Foivos Tsimpourlas and Pavlos Petoumenos and Min Xu and Chris Cummins and Kim Hazelwood and Ajitha Rajan and Hugh Leather*
+  
+  Proceedings of the 2022 International Conference on Parallel Architectures and Compilations Techniques (PACT 2022)
+  
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2022/PACT2022_BenchPress.pdf)
+  [source](https://github.com/fivosts/BenchPress) 
+
 - **Object Intersection Captures on Interactive Apps to Drive a Crowd-Sourced Replay-Based Compiler Optimization**
 
   *Paschalis Mpeis and Pavlos Petoumenos and Kim Hazelwood and Hugh Leather*
   
-  To be published in ACM Transactions on Architecture and Code Optimization (TACO)
+  ACM Transactions on Architecture and Code Optimization (TACO), Volume 19, Issue 3, September 2022
   
   [paper](https://github.com/ppetoumenos/publications/raw/master/2022/TACO22_CrowdSourcedAutotuning.pdf)
 
