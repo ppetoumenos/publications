@@ -1,6 +1,15 @@
 
 # Pavlos' Research Publications
 
+- **HyBF : A Hybrid Branch Fusion Strategy for Code Size Reduction**
+
+  *Rodrigo C. O. Rocha and Charitha Saumya and Kirshanthan Sundararajah and Pavlos Petoumenos and Milind Kulkarni and Michael F. P. O’Boyle*
+  
+  Proceedings of the ACM SIGPLAN 2023 International Conference on Compiler Construction (CC 2023)
+  
+  [paper](https://github.com/ppetoumenos/publications/raw/master/2023/CC23_BranchFusion.pdf)
+  [artifact](https://doi.org/10.6084/m9.figshare.21976358.v1) 
+
 - **BenchPress: A Deep Active Benchmark Generator**
 
   *Foivos Tsimpourlas and Pavlos Petoumenos and Min Xu and Chris Cummins and Kim Hazelwood and Ajitha Rajan and Hugh Leather*
